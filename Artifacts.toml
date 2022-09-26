@@ -1,0 +1,459 @@
+[[FMM2D]]
+arch = "aarch64"
+git-tree-sha1 = "18e6690880084a6a085dbb079d5028db1308164c"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[FMM2D.download]]
+    sha256 = "9048f85cfaf154db0379602b3d1c95f9c186fa56005dad0d58cbcf3fc2ec2150"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[FMM2D]]
+arch = "aarch64"
+git-tree-sha1 = "0b325af1ab5a7a65b128141c547409487d20ca9b"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "543b88777cffb7d84c26e0d1b953a745374fe9d416447dee33b38039dd4d08a2"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[FMM2D]]
+arch = "aarch64"
+git-tree-sha1 = "30c92550e7a43bb9bd2a3a8c5ae808502fe2903c"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "58e44f5f47954b5887c9c7e8ec4249930f01a260c213a08bf5cab4338517e889"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[FMM2D]]
+arch = "aarch64"
+git-tree-sha1 = "fb930438735a18bbac36662229d6f4b647dc782d"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "5110799a42c89e88a752c7e3d7db8e39acaffa88c4961b3cf0da2627c8cdacc1"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[FMM2D]]
+arch = "aarch64"
+git-tree-sha1 = "af984acff2506d07b71d7caae7d9dfe65267c412"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "06d360be25af6262acd0b6372b589df348dd037c9df3afad0a15baaaa6f0787c"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.aarch64-linux-musl-libgfortran3.tar.gz"
+[[FMM2D]]
+arch = "aarch64"
+git-tree-sha1 = "2a3c043f259aff89f4edb886f737bcc27e7a65e1"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "c42b752d2b5f0cc03260c620441e5689552e2ffb1513bae684d8e8fda9573a48"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[FMM2D]]
+arch = "aarch64"
+git-tree-sha1 = "6e281e9ce66d55e1b17d07338e71177f9e616118"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "210f86311b49ab912d3785e87cbadda134c27cb24034d646e0751292618342ab"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[FMM2D]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6d23e0b2fb877c89b36281ffb46b1bad8329d543"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "dab942680a1fa907e4246d7b207baee356af13dee1b3dfdb1aa2f06b2c4671ce"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[FMM2D]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "77ab3f999585c90efa860ae7c4443c5c7c2cee86"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "526862aac4ef63a08452d9d5638a1ac93cddfd8eda73e5b89455e59a36f0878a"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[FMM2D]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "67b1331a0019ef9d2309ad514c33de06292c4c8d"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "bd2717af64e4fc17f9e19e8b1d998cc38aa2b95e26fc6a2556fc577a5e2091eb"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[FMM2D]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c4c64ffd825bb9dfd3aabeaf049f98d1532897e2"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "0405a075dd4634e0022555b388cb196e829caf6f7304ec4e8cff78465cd1631b"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[FMM2D]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "698d10a300621c9ec82c915cf4a60c1c8bee6284"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "a7fef141bd7c47f867587265ed36289f7d6e188e0f2ab7bb8ef5f768050efb2f"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[FMM2D]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "20946642791794259a935d62bf8bda5113f88b66"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "caf4c6d8f1dab43dd9d18185c89fa85644e746840fe80c9824bbb4ee63bcb8b0"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[FMM2D]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bcd39eb478a1d89a1863501187cfd1f1e1349ee2"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "a3d8a7e98739077b9769c7bc6c1faba2b9cbfebbcd51be5c6cc98f0b5b89d89c"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[FMM2D]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "56d2228e0d94de8fd77fd1a47fca6417fb6bad64"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "ce70102cf81d4237628e2bffa50a8c5f7a43f164349360274eec8343a23ebea5"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[FMM2D]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "eec03056470fc2f01b93b599e155d3247528db24"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "1c11e4e430e22cd728935d1edc16685f415943b80153a9b5d93e2d41d40a7029"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[FMM2D]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "57417dfb80a0ea75236fa9e8cc2adae0974f9d36"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "b3d23cc8415f713ed44cd0b3c586fe61ea6a2831c23127c7cabcd5583e48cf69"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[FMM2D]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f1d99a5d0503d8e04922c65b8c66221e48c08f38"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "74863bb789ebbf3324c5016cfaac869056bac23416ce4339ed65e490179ad5af"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[FMM2D]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8c1f8afcc40b7f2ee8592c924bf59645ebf788c7"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "e78d4b015e9fc127c0c181417d77675cb5d115bea20d7d110d3ab7fba437a863"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[FMM2D]]
+arch = "i686"
+git-tree-sha1 = "625e937437b246510b103d8ae6a3b83f62b32720"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "cf465f9aa99d215cbf2a9af2de0c2fc56badd5851cc4406174ab524da3707c9c"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[FMM2D]]
+arch = "i686"
+git-tree-sha1 = "1bfa093ee47b475732a30cce7a8ba3120349cb57"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "71f386a5d97e57dbb968f07f1c1e74c57906b643bb4aaf5002c73fe062ebaca6"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[FMM2D]]
+arch = "i686"
+git-tree-sha1 = "e92e0a5af40a129d46e242508cf770cbe4fbfeff"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "534df0d710b8e5a7395f85f88250f8bd33580487da5277c3c581246c19c4fb80"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[FMM2D]]
+arch = "i686"
+git-tree-sha1 = "2681fd8a6aa75e7b6962c1bf3c413addf99ccd79"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "83340745c9baba0f0927336f7aa7192288271d74f437dbe0fc9eba0521c02db6"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.i686-linux-musl-libgfortran3.tar.gz"
+[[FMM2D]]
+arch = "i686"
+git-tree-sha1 = "633d8c7f40bd076bdc6d0c71a78c35348b4e5dcf"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "53fe78bdd6379a0426036f05004df98c5cb6535c33cfcb9df88a102553605983"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.i686-linux-musl-libgfortran4.tar.gz"
+[[FMM2D]]
+arch = "i686"
+git-tree-sha1 = "4fad911100e592d7375c8cebe593ea1f03606865"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "1a07c64984c7b8e3f66aa9b5d63290af454c577c8ccdfa8e67a0b5e59d12394d"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.i686-linux-musl-libgfortran5.tar.gz"
+[[FMM2D]]
+arch = "i686"
+git-tree-sha1 = "d734d199f04eca908faabfb3cbc5795e6d84ae06"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[FMM2D.download]]
+    sha256 = "a309ec51becbb271ec0ca25fd6ab7ade07c9e752d0beaad14b9adbca8f83a3aa"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[FMM2D]]
+arch = "i686"
+git-tree-sha1 = "d1cdd56a6ee1bce2794a0d286ad2ca271d5678ee"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[FMM2D.download]]
+    sha256 = "fad52ba3ebd78e6243b9cc5f5b187d27c42b9da427c45954052b1380736d44aa"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[FMM2D]]
+arch = "i686"
+git-tree-sha1 = "7a30d40b357c420f7e87442fe69bfb276e61c287"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[FMM2D.download]]
+    sha256 = "98f2a80a98b43a3c92b094385c08ded3f892591ba29823a9bbebea97ca3d7e52"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[FMM2D]]
+arch = "powerpc64le"
+git-tree-sha1 = "c04d746d29fd52c4f509ba1c4b2c4e5a44ef8933"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "a117bfbd78a10691a74def223ea643ae918c01d184ef57836fe889453ed4169c"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[FMM2D]]
+arch = "powerpc64le"
+git-tree-sha1 = "e6594444542c04c8434b937bc007d30f0e326064"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "49172f2002ad93638b14e8eca7e20a76866d84dd1830f8f2ba1c09d185e9102a"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[FMM2D]]
+arch = "powerpc64le"
+git-tree-sha1 = "1197fee165282070a1a4b2b69c9b3273a884cd96"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "b7726c2ad5c3ba692f58102e00e4cad1001f7ef9c3a95bf484ad4d1b621419a4"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[FMM2D]]
+arch = "x86_64"
+git-tree-sha1 = "d61df867065cb3b76c307dee40b62d7031229fb9"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[FMM2D.download]]
+    sha256 = "0867dd892a8369c08580396206ca3c5c7e8a1317c8a54c852b77466acc9c82c6"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[FMM2D]]
+arch = "x86_64"
+git-tree-sha1 = "096819fafaa47dc27101e431a38c1d6041d9d045"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[FMM2D.download]]
+    sha256 = "d8057d4c62bf462c53d6517608ae98d0da73d6411608e8e7a19f3bef6d27ca49"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[FMM2D]]
+arch = "x86_64"
+git-tree-sha1 = "c06fe098f1b7edff78f0942fae38e65f294a9a3f"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[FMM2D.download]]
+    sha256 = "5a531db4658a92886e45417e539040f379fdcd56533b3e546b6d50b63cba2ff2"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[FMM2D]]
+arch = "x86_64"
+git-tree-sha1 = "7ba561715ee0ac533d74be0f5befbba268321968"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "e18c4d76a5a43ce088753d3bce2576381ba4d17e725ccf8d45d43870fd6f61cf"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[FMM2D]]
+arch = "x86_64"
+git-tree-sha1 = "9527b021ca29af30783b3d60cf4caad87225e7c1"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "c7a217acbd30933190822dc400d625c18f3fea47ae72532fdcf85f9ac9b77f75"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[FMM2D]]
+arch = "x86_64"
+git-tree-sha1 = "94d5446ee9aaddca955f966c47a9e198fe382208"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "0f869e19648a12fbf460c806c6ce9005a0be243bdfd88be9f4f429ce6b0155d0"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[FMM2D]]
+arch = "x86_64"
+git-tree-sha1 = "f4191634ba3f464182dd56f2c0554c6b176e4b66"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "abd288aabbec31b9f2c5754eb9b3ae311589a0946c6c8c3edb0e8b9aa0059f89"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[FMM2D]]
+arch = "x86_64"
+git-tree-sha1 = "24c78281487d3f520455974d8b9937971ca14414"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "afb6359237a3c34a6997a098a8ee65d5e4108f89d37e4ea9df7ab314a17d86c9"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[FMM2D]]
+arch = "x86_64"
+git-tree-sha1 = "045dde869552c52ae2186771685600b488a1932c"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM2D.download]]
+    sha256 = "2e28dfcc03067c8c5b9cd2ebf4d8333a9092b1da8040272752f90016a5032275"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[FMM2D]]
+arch = "x86_64"
+git-tree-sha1 = "0d9e674677845d69230d14650c896062552188cf"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[FMM2D.download]]
+    sha256 = "dee1e8cae7e63d64f7615ec0569892d824db09edece5feb1d921616642036c16"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[FMM2D]]
+arch = "x86_64"
+git-tree-sha1 = "af1627317cbe34e5f4ded76d829b7412b2532740"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[FMM2D.download]]
+    sha256 = "ae807db1f733e40ece66a14c7391dd4fec4f1d58fcc74a4de8ccb6d846cb1dd5"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[FMM2D]]
+arch = "x86_64"
+git-tree-sha1 = "f226808bb5073998f0ba447fcd7415552d1af196"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[FMM2D.download]]
+    sha256 = "86391cf1651b8fb16f3a9212712bb60da39551482719efd4ef9a5a4e60b8bbc6"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[FMM2D]]
+arch = "x86_64"
+git-tree-sha1 = "fa2c20e1763d26c064a910e2f95e1be232fb11e7"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[FMM2D.download]]
+    sha256 = "e04f74754e97ba97f7c1155b9a3f5b0b41c34f2a2c6085038b4f6d20c9b9dbb0"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[FMM2D]]
+arch = "x86_64"
+git-tree-sha1 = "262fd71ea250c7df70e36e2b18f9b69592451363"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[FMM2D.download]]
+    sha256 = "29f3ac1dcadff075baf68db18a0506f890bba20826dfd1b99dbbf3839414f33d"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[FMM2D]]
+arch = "x86_64"
+git-tree-sha1 = "7d1521b34b44cb96a004f1000372185ad5c3fa47"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[FMM2D.download]]
+    sha256 = "e2eb0ba829a92dadd625081dcb920b821e579e482de0f0a0b71278b7eafbb37e"
+    url = "https://github.com/JuliaBinaryWrappers/FMM2D_jll.jl/releases/download/FMM2D-v1.0.0+0/FMM2D.v1.0.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
